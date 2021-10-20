@@ -2,3 +2,4 @@ first line
 second line in local branch1
 third line local for diff
 fourth line local branch
+fifth line added
